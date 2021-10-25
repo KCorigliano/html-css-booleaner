@@ -23,3 +23,25 @@ h1{
     margin-top: 5px;
     line-height: 1px;
 }
+
+.giallo{
+    background: yellow;
+}
+
+tr{
+
+    text-align: left;
+    vertical-align: middle;
+}
+
+.smallcell{ 
+    width: 300px;
+}
+
+.blue{
+    background:dodgerblue;
+}
+
+.cyan{
+    background:deepskyblue;
+}
