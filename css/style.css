@@ -1,0 +1,25 @@
+div{
+    height: 100px;
+    background: rgb(59, 138, 228) url(../img/pattern.png) 10% 0%;
+    background-size: 400px
+}
+
+#logo{
+    width: 170px;
+    margin-top: 50px;
+}
+
+/*titolo*/
+h1{
+    margin-bottom: 0px;
+}
+
+#Autore{
+    color: cyan;
+}
+
+.descrizione{
+    font-size: 12px;
+    margin-top: 5px;
+    line-height: 1px;
+}
