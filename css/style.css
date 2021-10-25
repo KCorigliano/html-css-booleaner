@@ -1,4 +1,4 @@
-div{
+.titolo{
     height: 100px;
     background: rgb(59, 138, 228) url(../img/pattern.png) 10% 0%;
     background-size: 400px
@@ -9,13 +9,23 @@ div{
     margin-top: 50px;
 }
 
-/*titolo*/
 h1{
     margin-bottom: 0px;
 }
 
 #Autore{
     color: cyan;
+}
+
+.greytext{
+    color: dimgray;
+}
+
+.data{
+    font-size: 10px;
+    color: dimgray;
+    line-height: 1px;
+    margin-top: 5px;
 }
 
 .descrizione{
@@ -34,6 +44,10 @@ tr{
     vertical-align: middle;
 }
 
+th{
+    color: white;
+}
+
 .smallcell{ 
     width: 300px;
 }
@@ -43,5 +57,10 @@ tr{
 }
 
 .cyan{
-    background:deepskyblue;
+    background: lightskyblue;
+}
+
+.suggeriti{
+    display: block;
+    margin-top: 10px;
 }
