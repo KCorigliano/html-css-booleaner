@@ -61,6 +61,14 @@ th{
 }
 
 .suggeriti{
-    display: block;
     margin-top: 10px;
+    padding-left: 10px;
+    color: white;
+    background: url(../img/monitor.jpg) no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 150px;
 }
+
+table{
+    border-spacing: 0;
